@@ -1,6 +1,6 @@
 {
   "name": "simpleddp",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "The aim of this library is to simplify the process of working with meteor server over DDP protocol using external JS environments",
   "keywords": [
     "ddp",
@@ -33,18 +33,18 @@
   "homepage": "https://gregivy.github.io/simpleddp/",
   "dependencies": {
     "clone-deep": "^4.0.1",
-    "ejson": "^2.2.0"
+    "ejson": "^2.2.3"
   },
   "devDependencies": {
-    "@pixi/jsdoc-template": "^2.4.2",
+    "@pixi/jsdoc-template": "^2.6.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
-    "babel-plugin-add-module-exports": "^1.0.2",
+    "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-0": "^6.24.1",
-    "chai": "^4.2.0",
-    "jsdoc": "^3.6.3",
-    "mocha": "^5.2.0",
-    "ws": "^6.2.1"
+    "chai": "^5.1.0",
+    "jsdoc": "^4.0.2",
+    "mocha": "^10.3.0",
+    "ws": "^8.16.0"
   }
 }
